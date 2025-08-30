@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Hi , I'm Ritesh Naik(aka-brownmunde)<br><br>🧑‍🎓Electronics and communication enginer at PES UNIVERSITY<br><br>🧐Curious about openCV, embedded system, vlsi<br><br>🤖On a mission to be better version of my self then yesterday<br><br>🔗Check out my journey so far -> www.linkedin.com/in/brown178munde
+Hi , I'm Ritesh Naik(aka-brownmunde)<br><br>🧑‍🎓Electronics and communication enginer at PES UNIVERSITY<br><br>🤖On a mission to be better version of my self then yesterday<br>
 
 
 ## 🌐 Socials:
@@ -24,4 +24,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=brown178munde&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
